@@ -1,7 +1,7 @@
 
 .theme-default {
-    --border-radius-primary: 8px;
-    --border-radius-secondary: 4px;
+    --border-radius-primary: 7px; /* The Borders. */
+    --border-radius-secondary: 3px;
 
     /* Main Colors */
     --wick-primary: #303030;
@@ -52,5 +52,5 @@
 
 
     /* Shadows */
-    --wick-box-shadow: 2px 2px 8px var(--wick-primary); 
+    --wick-box-shadow: 2px 3px 10px var(--wick-primary); 
 }
